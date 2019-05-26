@@ -1,0 +1,26 @@
+*,
+*:before,
+*:after {
+  list-style: none;
+}
+nav {
+  font-size: 20px;
+  background-color: #808080;
+}
+header {
+  margin-top: 10vh;
+  text-align: center;
+  border: #000 1px solid;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+section {
+  padding-top: 10vh;
+}
+section .container {
+  height: 70vh;
+  border: #000 1px solid;
+  border-radius: 10px;
+}
